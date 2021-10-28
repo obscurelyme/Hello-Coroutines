@@ -1,9 +1,0 @@
-Package: boost-coroutine2
-Version: 1.77.0
-Depends: boost-assert, boost-config, boost-context, boost-vcpkg-helpers
-Architecture: x64-linux
-Multi-Arch: same
-Abi: 400609a61a365cadcd141c6c237b336fcf4158614f5a14eee90aad418bcd3cf3
-Description: Boost coroutine2 module
-Type: Port
-Status: install ok installed

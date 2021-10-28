@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/obcurelyme/Projects/Hello-Coroutines/build",
-  "command": "/bin/clang++-13 -Ivcpkg_installed/x64-linux/include -g -o CMakeFiles/hello-co.dir/main.cpp.o -c /home/obcurelyme/Projects/Hello-Coroutines/main.cpp",
-  "file": "/home/obcurelyme/Projects/Hello-Coroutines/main.cpp"
-}
-]

@@ -1,3 +1,0 @@
-/home/obcurelyme/Projects/Hello-Coroutines/build/CMakeFiles/rebuild_cache.dir
-/home/obcurelyme/Projects/Hello-Coroutines/build/CMakeFiles/edit_cache.dir
-/home/obcurelyme/Projects/Hello-Coroutines/build/CMakeFiles/hello-co.dir

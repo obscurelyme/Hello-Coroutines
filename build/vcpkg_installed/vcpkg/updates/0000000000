@@ -1,8 +1,0 @@
-Package: boost-uninstall
-Version: 1.77.0
-Architecture: x64-linux
-Multi-Arch: same
-Abi: 0d9ce08b354ff490c5878046874f5ecb56a2ab9ee19da3a247635694a42250c7
-Description: Internal vcpkg port used to uninstall Boost
-Type: Port
-Status: install ok half-installed
