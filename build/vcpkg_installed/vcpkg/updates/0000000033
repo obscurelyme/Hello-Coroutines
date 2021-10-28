@@ -1,0 +1,10 @@
+Package: boost-modular-build-helper
+Version: 1.77.0
+Port-Version: 2
+Depends: boost-uninstall
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 15a71b37fb34b5de627de17b9ab503eede1f21ca892931da2a24f2abbbad389f
+Description: Internal vcpkg port used to build Boost libraries
+Type: Port
+Status: install ok installed

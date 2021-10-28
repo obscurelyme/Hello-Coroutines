@@ -1,0 +1,10 @@
+Package: boost-config
+Version: 1.77.0
+Port-Version: 2
+Depends: boost-vcpkg-helpers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: f75581283e6e4c6288f2e9dde8d5fb24880672b28367d596a270c05bc849d496
+Description: Boost config module
+Type: Port
+Status: install ok half-installed

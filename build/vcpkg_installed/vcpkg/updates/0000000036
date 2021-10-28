@@ -1,0 +1,9 @@
+Package: boost-context
+Version: 1.77.0
+Depends: boost-assert, boost-build, boost-config, boost-core, boost-modular-build-helper, boost-mp11, boost-pool, boost-predef, boost-smart-ptr, boost-vcpkg-helpers, vcpkg-cmake
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 4ec9d82124e62bcd67e7752ffc85aaa4ecd0c31c0d6fc4ffc76b12bbd43eb956
+Description: Boost context module
+Type: Port
+Status: install ok half-installed

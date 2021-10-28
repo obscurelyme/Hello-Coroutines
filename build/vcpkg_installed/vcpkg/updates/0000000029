@@ -1,0 +1,9 @@
+Package: boost-pool
+Version: 1.77.0
+Depends: boost-assert, boost-config, boost-integer, boost-throw-exception, boost-type-traits, boost-vcpkg-helpers, boost-winapi
+Architecture: x64-linux
+Multi-Arch: same
+Abi: dfbb7a4bd429e8a46ac26b09f58b24d6428ec1cf4f4d39ff8ba63f761012df6c
+Description: Boost pool module
+Type: Port
+Status: install ok installed
