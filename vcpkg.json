@@ -1,0 +1,5 @@
+{
+  "name": "hello-co",
+  "version-string": "1.0.0",
+  "dependencies": ["boost-coroutine2"]
+}
