@@ -4,6 +4,7 @@
     "CMAKE_TOOLCHAIN_FILE": "~/vcpkg/scripts/buildsystems/vcpkg.cmake"
   },
   "files.associations": {
+    "*.tsx": "typescriptreact",
     "*.cpp": "cpp",
     "*.ipp": "cpp",
     "algorithm": "cpp",
@@ -88,6 +89,28 @@
     "xstring": "cpp",
     "xtr1common": "cpp",
     "xtree": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "__config": "cpp",
+    "__functional_03": "cpp",
+    "__hash_table": "cpp",
+    "__split_buffer": "cpp",
+    "__tree": "cpp",
+    "__bit_reference": "cpp",
+    "__bits": "cpp",
+    "__debug": "cpp",
+    "__errc": "cpp",
+    "__functional_base": "cpp",
+    "__locale": "cpp",
+    "__mutex_base": "cpp",
+    "__node_handle": "cpp",
+    "__nullptr": "cpp",
+    "__string": "cpp",
+    "__threading_support": "cpp",
+    "__tuple": "cpp",
+    "bitset": "cpp",
+    "cstdarg": "cpp",
+    "cwctype": "cpp",
+    "coroutine": "cpp",
+    "string_view": "cpp"
   }
 }
